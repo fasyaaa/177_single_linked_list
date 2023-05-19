@@ -74,7 +74,6 @@ bool deleteNode(int nim) {
 		return true;
 }
 
-
 bool listEmpty() {
 	if (listEmpty()) {
 		cout << "List Kosong" << endl;
